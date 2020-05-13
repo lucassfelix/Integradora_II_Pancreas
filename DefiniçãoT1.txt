@@ -1,0 +1,29 @@
+O Trabalho 1 da Disciplina Integradora II (Iniciação Científica) consiste em estudar e reproduzir os passos de um trabalho de pesquisa. O trabalho pode ser realizado individualmente ou em dupla. O trabalho a ser reproduzido deve ter sido desenvolvido e publicado pelo grupo de pesquisa no qual o grupo está vinculado e deve ser indicado pelo professor orientador. O grupo deve reportar todas as etapas realizadas em um caderno de pesquisa digital. Além disso, o grupo deve escrever um artigo e realizar uma apresentação sobre o trabalho desenvolvido. Neste trabalho também deverá ser apresentada a contribuição que será desenvolvida no Trabalho 2. O grupo que irá realizar o Trabalho 2 deve ser o mesmo do Trabalho 1.
+
+A avaliação será realizada de forma conjunta pelo professor da disciplina e o orientador do grupo através da análise do caderno de pesquisa digital, do artigo, participação do grupo no grupo de pesquisa (exclusivamente pelo orientador), e da apresentação do trabalho (exclusivamente pelo professor da disciplina). Os pontos que serão considerados durante a avaliação são:
+
+Caderno de pesquisa (20% da nota)
+
+    escrita objetiva e sem erros
+    identificação das interações com o grupo de pesquisa e orientador, e discussões realizadas
+    descrição dos passos realizados para reproduzir o trabalho permitindo a sua reprodução
+    identificação dos artefatos (código, sites, dados, imagens, etc) usados para desenvolver o trabalho indicando onde podem ser acessados (URL de página do grupo, GitHub, BitBucket, etc)
+
+Artigo (40% da nota)
+
+    escrita objetiva e sem erros
+    utilização do formato da SBC (template de artigo) contendo entre 6 e 10 páginas
+    seções apresentando: (i) introdução sobre o trabalho desenvolvido contendo motivação, descrição do problema e do trabalho realizado; (ii) descrição da fundamentação teórica sobre a área trabalhada; (iii) descrição sobre o trabalho reproduzido e o processo para sua reprodução; (iv) análise dos resultados obtidos na reprodução comparando com os resultados obtidos no trabalho original; (v) descrição de uma contribuição sobre o trabalho reproduzido a ser desenvolvida no Trabalho 2; (vi) conclusão do trabalho
+
+Participação no grupo de pesquisa (20% da nota)
+
+    assiduidade no horário destinado para participação do grupo
+    boa interação com o orientador e alunos de pós-graduação
+
+Apresentação do trabalho (GRAVAÇÃO EM VIDEO) (20% da nota)
+
+    respeito ao tempo máximo de apresentação (5 minutos)
+    slides apresentando o trabalho de forma clara e sem erros de ortografia
+    apresentação oral clara e objetiva
+
+O caderno de pesquisa, artigo e slides da apresentação (todos em formato pdf) e vídeo (preferencialmente em formato mp4) devem ser entregues em um arquivo zip pelo Moodle até a data indicada no cronograma da disciplina. 
